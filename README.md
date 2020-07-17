@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student actively working on topics of bioinformatics and cheminformatics. Specifically, I focus on cancer variant calling and finding anti-cancer drugs.
+I am a student actively working on topics of bioinformatics and cheminformatics.
 
-I will start my PhD in Bioinformatics this Fall at UMich.
+Specifically, I focus on cancer variant calling and repurposing of anti-cancer drugs.
+
+I will start my PhD in Bioinformatics at UMich this Fall.
 
