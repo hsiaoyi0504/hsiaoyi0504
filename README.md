@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student actively working on topics of bioinformatics and cheminformatics.
+I will start my PhD in Bioinformatics this Fall at UMich.
+
