@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 I am a PhD student actively working on topics of bioinformatics and cheminformatics.
 
-Specifically, I focus on cancer variant calling and repurposing of anti-cancer drugs.
+Specifically, I would like focus on analyzing large-scale omics data and finding anti-cancer drugs.
 
 ## GitHub statistics
+
+I mostly use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly.
 
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=hsiaoyi0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
