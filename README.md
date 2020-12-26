@@ -26,3 +26,11 @@ I mostly use Python, R and JavaScript routinely. Additionally, I write some C++,
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=hsiaoyi0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiaoyi0504)](https://github.com/anuraghazra/github-readme-stats)
+
+## Project status
+
+| Package | Status |
+|:----------------:|:----------------:|
+|[GFF3toolkit](https://github.com/NAL-i5K/GFF3toolkit)|[![Build Status](https://travis-ci.org/NAL-i5K/GFF3toolkit.svg?branch=master)](https://travis-ci.org/NAL-i5K/GFF3toolkit) [![Build status](https://ci.appveyor.com/api/projects/status/0do5uwu5je0gag1u/branch/master?svg=true)](https://ci.appveyor.com/project/hsiaoyi0504/gff3toolkit/branch/master)|
+|[Genomics-Workspace](https://github.com/NAL-i5K/genomics-workspace)|[![Build Status](https://travis-ci.org/NAL-i5K/genomics-workspace.svg?branch=master)](https://travis-ci.org/NAL-i5K/genomics-workspace/?branch=master)|
+|[remap-gff3](https://github.com/NAL-i5K/remap-gff3)|[![Build Status](https://travis-ci.org/NAL-i5K/remap-gff3.svg?branch=master)](https://travis-ci.org/NAL-i5K/remap-gff3)|
