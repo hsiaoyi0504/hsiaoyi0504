@@ -29,6 +29,13 @@ I mostly use Python, R and JavaScript routinely. Additionally, I write some C++,
 
 ## Project status
 
+### Self-motivated projects
+| Package | Status |
+|:----------------:|:----------------:|
+|[awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics/settings)|[![Build Status](https://travis-ci.org/hsiaoyi0504/awesome-cheminformatics.svg?branch=master)](https://travis-ci.org/hsiaoyi0504/awesome-cheminformatics)|
+
+
+### Previous work at NAL-i5k
 | Package | Status |
 |:----------------:|:----------------:|
 |[GFF3toolkit](https://github.com/NAL-i5K/GFF3toolkit)|[![Build Status](https://travis-ci.org/NAL-i5K/GFF3toolkit.svg?branch=master)](https://travis-ci.org/NAL-i5K/GFF3toolkit) [![Build status](https://ci.appveyor.com/api/projects/status/0do5uwu5je0gag1u/branch/master?svg=true)](https://ci.appveyor.com/project/hsiaoyi0504/gff3toolkit/branch/master)|
