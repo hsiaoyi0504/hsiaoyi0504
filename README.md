@@ -21,7 +21,7 @@ Specifically, I would like focus on analyzing large-scale omics data and finding
 
 ## GitHub statistics
 
-I mostly use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly.
+I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly.
 
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=hsiaoyi0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
