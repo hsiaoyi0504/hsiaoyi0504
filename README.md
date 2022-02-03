@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student actively working on topics of bioinformatics and cheminformatics.
+I am a PhD candidate actively working on topics of bioinformatics and cheminformatics.
 
 Specifically, I would like focus on analyzing large-scale omics data and finding anti-cancer drugs.
 
