@@ -32,7 +32,7 @@ I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, 
 ### Self-motivated projects
 | Package | Status |
 |:----------------:|:----------------:|
-|[awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics/settings)|[![Build Status](https://travis-ci.org/hsiaoyi0504/awesome-cheminformatics.svg?branch=master)](https://travis-ci.org/hsiaoyi0504/awesome-cheminformatics)|
+|[awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics/settings)|[![Build Status](https://app.travis-ci.com/hsiaoyi0504/awesome-cheminformatics.svg?branch=master)](https://app.travis-ci.com/hsiaoyi0504/awesome-cheminformatics)|
 
 
 ### Previous work at NAL-i5k
