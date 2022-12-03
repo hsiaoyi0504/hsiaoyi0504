@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a PhD candidate actively working on topics of bioinformatics and cheminformatics.
 
-Specifically, I would like focus on analyzing large-scale omics data and finding anti-cancer drugs.
+Specifically, I am currently focusing on analyzing large-scale omics data from cancer patients and finding anti-cancer drugs.
 
 ## GitHub statistics
 
