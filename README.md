@@ -21,12 +21,11 @@ Specifically, I am currently focusing on analyzing large-scale omics data from c
 
 ## GitHub statistics
 
-I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiaoyi0504)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiaoyi0504)](https://github.com/anuraghazra/github-readme-stats)
+
+I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly. However, based on the line counts, I wrote HTML the most :fearful:. Check some of my projects below!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiaoyi0504&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Project status
 
