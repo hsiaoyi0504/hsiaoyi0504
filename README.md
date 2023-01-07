@@ -23,7 +23,8 @@ Specifically, I am currently focusing on analyzing large-scale omics data from c
 
 I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, MATLAB codes randomly.
 
-[![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=hsiaoyi0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiaoyi0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiaoyi0504)](https://github.com/anuraghazra/github-readme-stats)
 
