@@ -35,6 +35,11 @@ I use Python, R and JavaScript routinely. Additionally, I write some C++, Java, 
 |[awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics/settings)|[![Build Status](https://app.travis-ci.com/hsiaoyi0504/awesome-cheminformatics.svg?branch=master)](https://app.travis-ci.com/hsiaoyi0504/awesome-cheminformatics)|
 |[CancerSubtypes (forked)](https://github.com/hsiaoyi0504/CancerSubtypes)|[![Build status](https://ci.appveyor.com/api/projects/status/mebn4w5k68jfryfq/branch/master?svg=true)](https://ci.appveyor.com/project/hsiaoyi0504/cancersubtypes/branch/master)|
 
+### Previous work at CMDM Lab
+| Project | Link |
+|:----------------:|:----------------:|
+| VirtualRat | [http://virtualrat.cmdm.tw/](http://virtualrat.cmdm.tw/) |
+| PolyName2Structure | [https://github.com/CMDM-Lab/PN2S](https://github.com/CMDM-Lab/PN2S)|
 
 ### Previous work at NAL-i5k
 | Package | Status |
