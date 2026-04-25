@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD candidate actively working on topics of bioinformatics and cheminformatics.
+I am a research fellow at University of Michigan actively working on topics of bioinformatics and cheminformatics.
 
 Specifically, I am currently focusing on analyzing large-scale omics data from cancer patients and finding anti-cancer drugs.
 
